@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QWQZUVUK
 
 [Document2]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for capacitor\capacitor.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for capacitor\capacitor.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for diode\diode.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for diode\diode.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for electromechanics\electromechanics.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for electromechanics\electromechanics.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for resistor\resistor.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for resistor\resistor.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for oscilator\oscilator.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for oscilator\oscilator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for optoisolator\optoisolator.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for optoisolator\optoisolator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,7 +168,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for module\module.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for module\module.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for inductor\inductor.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for inductor\inductor.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,7 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for ic-power-supply\ic-power-supply.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for ic-power-supply\ic-power-supply.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -219,7 +219,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\..\..\..\altium-library-master\library\Project Outputs for ic-mcu\ic-mcu.IntLib
+DocumentPath=..\..\..\..\altium-library-master\library\Project Outputs for ic-mcu\ic-mcu.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -251,6 +251,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHRJASVH
+
+[Document13]
+DocumentPath=CAN.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NRCVJJWR
 
 [Configuration1]
 Name=Sources
