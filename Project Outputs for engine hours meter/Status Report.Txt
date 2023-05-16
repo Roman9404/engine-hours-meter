@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 0:45:11 On 17.05.2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [engine hours meter.PrjPcb]
+   Generated File[Bill of Materials-engine hours meter.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 0:45:13 On 17.05.2023
